@@ -1,2 +1,2 @@
 # Aula-Generation
-Aulas da plataforma da Generation desenvolvidas durante o curso.
+Atividades desenvolvidas durante o curso da Generation.
