@@ -6,6 +6,7 @@ public class Ex_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//A, B, C; A, C, B; B, A,C; B, C,A; C, A, B; C, B,A.
 		int a, b, c;
 		
 		Scanner leia= new Scanner(System.in);
