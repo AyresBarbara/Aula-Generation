@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Ex2_For {
 
 	public static void main(String[] args) {
-//Informar todos os números de 1000 a 1999 que quando divididos por 11
-		//obtemos resto = 5. (FOR)
+//Ler 10 números e imprimir quantos são pares e quantos são ímpares.
 		
 		int x, n, nP=0, nI=0;
 		
