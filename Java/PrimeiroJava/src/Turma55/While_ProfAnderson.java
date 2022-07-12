@@ -1,3 +1,5 @@
+package Turma55;
+
 import java.util.Scanner;
 
 public class While_ProfAnderson {
