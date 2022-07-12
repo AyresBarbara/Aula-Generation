@@ -13,7 +13,7 @@ public class Ex1 {
 	
 		for (x=0; x<5; x++) 
 		{
-			System.out.println("\nEntre com " +x+" uma numero: ");
+			System.out.println("\nEntre com um numero: ");
 			vetor1[x] = leia.nextInt();
 			
 			if (vetor1[x] > maiorNota) 
@@ -24,7 +24,7 @@ public class Ex1 {
 		for (x=0; x<5; x++) 
 		{
 		
-			System.out.println ("\nValor da pontuação "+x+ ": "+vetor1[x]);
+			System.out.println("\nValor da pontuação: "+vetor1[x]);
 		}
 		System.out.println ("\nA maior pontuação é: "+maiorNota);
 }
