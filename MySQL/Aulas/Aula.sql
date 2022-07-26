@@ -15,3 +15,4 @@ PRIMARY KEY (id)
 SELECT* FROM tb_produtos;
 -- inserir - tabela - variaveis na ordem que foi criado - VALUES - dados
 INSERT INTO tb_produtos(nome_produto, valor, quantidade, pagamento_cartao)VALUES("Camiseta", 25.59, 5, true);
+INSERT INTO tb_produtos(nome_produto, valor, quantidade, pagamento_cartao)VALUES("Camisa", 30.99, 3, true)
